@@ -2,4 +2,4 @@ var meals = {
   playlist: "Rockstar"
 };
 
-function 
+function (playlist, artistName, songTitle)
